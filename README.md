@@ -1,12 +1,5 @@
 Talking about Personal Stuffs:
 
+<a href="https://github.com/debsiilva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=debsiilva&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Debora Silva's github stats" /></a> | <a href="https://github.com/debsiilva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debsiilva&layout=compact&theme=radical&hide_border=true" /></a> |
 
 
-Hello, my name is Debora and i'm 24 . I graduated from the Faculdade de Informação e Administração Paulista - FIAP.  I have a degree in Information Systems;
-
-✏️ My interests: Java , HTML5, CSS, JavaScript, TypeScript, NodeJS, ReactJS.
-
-✨ Learning is continuous and there will always be a next level
-📚 I’m currently studying on web development technologies.
-
-🚩 Future Goals: Contribute more to the community and learn more about new technologies that arise.
